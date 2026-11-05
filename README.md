@@ -8,11 +8,11 @@ Final-year Cybersecurity student at Xiamen University Malaysia, graduating Septe
 
 ## What I've worked on
 
-- 🔓 **[Penetration Testing & Exploitation](./pentest-ad-network-exploitation)** — Full root compromise of a Linux web server by chaining Shellshock (CVE-2014-6271) with the Dirty COW (CVE-2016-5195) kernel exploit, plus web defacement and OWASP Top 10 web app exploitation
-- 🦠 **[Malware Analysis](./malware-analysis-reverse-engineering)** — Static and dynamic reverse engineering of LockBit 3.0, njRAT, RedLine Stealer, and a multi-stage AgentTesla dropper, mapped to MITRE ATT&CK and the Malware Behavior Catalog
-- 🔍 **[Digital Forensics Investigation](./digital-forensics-case-study)** — Simulated insider-threat investigation: disk recovery with FTK Imager, chain-of-custody documentation, and network traffic analysis in Wireshark
-- 🤖 **[Phishing Detection System](./phishing-detection-ocr)** — OCR module for a team project combining a Naive Bayes classifier with image-based phishing detection
-- 🔐 **[Grain-128AEADv2 Cipher](./grain-128aead-cipher)** — Full authenticated encryption scheme implemented in Python with a GUI
+- 🔓 **[Penetration Testing & Exploitation](https://github.com/stefanie-zhg/penetration-testing-exploitation)** — Full root compromise of a Linux web server by chaining Shellshock (CVE-2014-6271) with the Dirty COW (CVE-2016-5195) kernel exploit, plus web defacement and OWASP Top 10 web app exploitation
+- 🦠 **[Malware Analysis](https://github.com/stefanie-zhg/malware-analysis-reverse-engineering)** — Static and dynamic reverse engineering of LockBit 3.0, njRAT, RedLine Stealer, and a multi-stage AgentTesla dropper, mapped to MITRE ATT&CK and the Malware Behavior Catalog
+- 🔍 **[Digital Forensics Investigation](https://github.com/stefanie-zhg/digital-forensics-insider-threat)** — Simulated insider-threat investigation: disk recovery with FTK Imager, chain-of-custody documentation, and network traffic analysis in Wireshark
+- 🤖 **[Phishing Detection System](https://github.com/stefanie-zhg/phishing-detection-ocr)** — OCR module for a team project combining a Naive Bayes classifier with image-based phishing detection
+- 🔐 **[Grain-128AEADv2 Cipher](https://github.com/stefanie-zhg/grain-128aead-cipher)** — Full authenticated encryption scheme implemented in Python with a GUI
 
 ## Skills
 
